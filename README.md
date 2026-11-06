@@ -13,7 +13,10 @@
 # advSQL
 
 # 7. Quick reference – all SQL commands
-
+SPLIT
+REGULAREXPRESS
+LIKE 
+ù
 Here is your complete checklist.
 
 | SQL command | What it does |

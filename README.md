@@ -1,3 +1,15 @@
+# أهم 5 أسئلة يجب أن تتعلم طرحها عند رؤية أي جدول
+
+1. **What does this table represent?** — ماذا يمثل هذا الجدول؟
+2. **What does each row represent?** — ماذا يمثل كل صف؟
+3. **What is the primary key?** — ما المفتاح الذي يميز السجل؟
+4. **How is this table related to other tables?** — كيف يرتبط بالجداول الأخرى؟
+5. **Can I trust the data?** — هل البيانات صحيحة ومتسقة؟
+
+نصيحتي: في حالتك داخل Open Fiber، لا تكتفِ بتعلم SQL. حاول أن تفهم العلاقة بين Circuito وSegmento وCavo وGPON، وكيف تنتقل البيانات من عنصر إلى آخر في شبكة PNI.
+
+هذه هي الخطوة التي ستنقلك من مجرد كتابة Queries إلى فهم نموذج بيانات الشبكة (Data Model).
+
 # advSQL
 
 # 7. Quick reference – all SQL commands
